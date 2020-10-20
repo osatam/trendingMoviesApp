@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trending Movies</string>
+    <string name="movie_title"> Movie Title </string>
+    <string name="movie_details">Movie Details</string>
+    <string name="plot_synopsis">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="name_movie">Movie Name</string>
+    <string name="original_language">Original Language</string>
+    <string name="api_key">a7a15403fd0780a2f85ee48995b137ea</string>
+</resources>
